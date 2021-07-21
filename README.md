@@ -1,1 +1,1 @@
-# ZaWash-Application
+# ZaWash
